@@ -6,6 +6,10 @@ This is a machine learning-based web application that predicts whether a loan ap
 
 Users can interact with the app by inputting details such as income, loan amount, credit history, and employment status to receive a prediction about their loan approval eligibility.
 
+## Live Demo
+
+Try the app live: [https://loaneligibility-vskjfkwpg7ysnw2uqhuymp.streamlit.app/](https://loaneligibility-vskjfkwpg7ysnw2uqhuymp.streamlit.app/)
+
 ## Features
 
 - Trained logistic regression model using real-world-like loan data
